@@ -30,16 +30,16 @@ These three features form the input of the neural network.
 - The worst 14 are thrown out.    
 
 ## Mutation:    
-Probability of mutation: 0.2.   
+Probability of mutation: 0.2.    
 In mutation, eash element of the bit string is modified by a little random value, depending on the probability of mutation itself.         
 That is, the probability of an element of the bit string being modified is 0.2.   
 
 ## Crossover 1:   
-Probability of Crossover: 0.7    
+Probability of Crossover: 0.7.      
 Crossover is inspired by the idea that two parents create one or more children, each of which may or may not be better than the parents. The best ones further make it to the next generation. In this function, two parents from the best 6 are selected at random, and their elements are swapped accross a given random index. This creates two offsprings.    
 
 ## Crossover 2:    
-Probability of Crossover2: 0.3     
+Probability of Crossover2: 0.3.         
 This is another kind of crossover in which the elements of the two parents at each index are swapped with a probability of 0.3. This also creates two offsprings.     
 
 # Training Stats:    
