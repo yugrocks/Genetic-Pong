@@ -19,8 +19,8 @@ These three features form the input of the neural network.
 - Run: <code> python training_player2.py </code>    
 
 ## Training your own model:   
-- The model is defined in the file mover.py. You can modify the neural net articture there, along with the other details in training_player2.py    
-- In order to start training, edit the 'training_phase' variable to True, in the file training_player2.py.     
+- The model is defined in the file <code> mover.py </code>. You can modify the neural net articture there, along with the other details in <code> training_player2.py </coed>    
+- In order to start training, edit the <code> training_phase </code> variable to <code> True</code>, in the file <code> training_player2.py</code>.     
 
 
 ## About the Genetic Algorithm    
