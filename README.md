@@ -6,7 +6,22 @@ Given:
 -  The ratio of the y velocity to x velocity of the ball at a frame.     
 -  The difference between vertical position of the ball and the vertical position of the paddle, scaled by the max vertical height.    
 -  The absolute vertical position of the paddle.     
-These three features form the input of the neural network. 
+These three features form the input of the neural network.    
+
+# Requirements :    
+1. Kivy    
+2. numpy    
+
+## Running on your local machine:   
+- Clone the repository: <code> $ git clone https://github.com/yugrocks/Genetic-Pong.git </code>    
+- Go to the base directory:  <code> $cd Genetic-Pong </code>   
+- Install requirements: <code> $ pip install -r requirements.txt </code>    
+- Run: <code> python training_player2.py </code>    
+
+## Training your own model:   
+- The model is defined in the file mover.py. You can modify the neural net articture there, along with the other details in training_player2.py    
+- In order to start training, edit the 'training_phase' variable to True, in the file training_player2.py.     
+
 
 ## About the Genetic Algorithm    
 - I have defined two types of crossovers and a mutation criteria.   
