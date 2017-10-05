@@ -42,5 +42,8 @@ Crossover is inspired by the idea that two parents create one or more children, 
 Probability of Crossover2: 0.3 <br>      
 This is another kind of crossover in which the elements of the two parents at each index are swapped with a probability of 0.3. This also creates two offsprings.     
 
+# Demo:    
+![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Pong/master/demo.gif)    
+
 # Training Stats:    
 Coming Soon.
