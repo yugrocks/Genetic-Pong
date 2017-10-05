@@ -32,7 +32,7 @@ These three features form the input of the neural network.
 
 #### Mutation:    
 Probability of mutation: 0.2.   
-In mutation, eash element of the bit string is modified to a little random value, depending on the probability of mutation itself.         
+In mutation, eash element of the bit string is modified by a little random value, depending on the probability of mutation itself.         
 That is, the probability of an element of the bit string being modified is 0.2.   
 
 #### Crossover 1:   
