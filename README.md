@@ -26,7 +26,7 @@ These three features form the input of the neural network.
 ## About the Genetic Algorithm    
 - I have defined two types of crossovers and a mutation criteria.   
 - Total Population Size : 20    
-- Fitness Function: The number of times the ball hits the paddle in a given game. (Not the best criterian, but will do)      
+- Fitness Function: The number of times the ball hits the paddle in a given game. (Not the best criteria, but will do)      
 - The Best two always make it to the next generation.    
 - The worst 14 are thrown out.    
 
