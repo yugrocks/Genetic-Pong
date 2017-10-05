@@ -20,8 +20,7 @@ These three features form the input of the neural network.
 
 ## Training your own model:   
 - The model is defined in the file <code> mover.py </code>. You can modify the neural net articture there, along with the other details in <code> training_player2.py </coed>    
-- In order to start training, edit the <code> training_phase </code> variable to <code> True</code>, in the file <code> training_player2.py</code>.     
-
+- In order to start training, edit the <code> training_phase </code> variable to <code> True</code>, in the file <code> training_player2.py</code>.    
 
 # About the Genetic Algorithm    
 - I have defined two types of crossovers and a mutation criteria.   
