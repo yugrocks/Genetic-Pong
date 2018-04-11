@@ -6,7 +6,10 @@ Given:
 -  The ratio of the y velocity to x velocity of the ball at a frame.     
 -  The difference between vertical position of the ball and the vertical position of the paddle, scaled by the max vertical height.    
 -  The absolute vertical position of the paddle.     
-These three features form the input of the neural network.    
+These three features form the input of the neural network.     
+
+
+## Working is explained in this <a href = "https://yugrocks.wordpress.com/2018/03/24/lets-create-a-pong-game-agent-using-neural-network-and-genetic-algorithm-part-1/">blog</a>
 
 # Requirements :    
 1. Kivy    
